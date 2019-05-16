@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "pname": "Iphone",
+      "ptype": "Electronic",
+      "price": 45000,
+      "id": 4
+    },
+    {
+      "pname": "Suit",
+      "ptype": "Fashion & Clothes",
+      "Price": 1200,
+      "id": 5
+    },
+    {
+      "pname": "Iphone X",
+      "ptype": "Electronic",
+      "price": 850000,
+      "id": 6
+    },
+    {
+      "pname": "Moto",
+      "ptype": "Electronic",
+      "price": 25000,
+      "id": 7
+    },
+    {
+      "pname": "Moto g",
+      "ptype": "Electronic",
+      "price": 21000,
+      "id": 8
+    },
+    {
+      "pname": "Laptop",
+      "ptype": "Electronic",
+      "price": 45000,
+      "id": 9
+    }
+  ]
+}
